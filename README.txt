@@ -4,6 +4,8 @@
 
 Created by Nathan Smith. See the official site for more info: http://960.gs/
 
+Various files altered by S. Schram. (Mainly to practice with GitHub.)
+
 ============================================================================
 
 To install the Adobe Fireworks extension, simply double-click the *.mxp file
